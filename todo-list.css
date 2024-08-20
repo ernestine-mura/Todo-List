@@ -36,6 +36,7 @@ form span.addtach{
 }
 form span.addtach:hover{
     background-color: rgb(223, 172, 109);
+    border: 5px solid rgb(223, 172, 109);
 }
 ul{
     margin-top: 45px;
